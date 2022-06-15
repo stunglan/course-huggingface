@@ -40,7 +40,7 @@
 		"PATH": "${containerEnv:PATH}:/home/vscode/.local/bin",
 		"MY_REMOTE_VARIABLE": "some-other-value-here",
 		"MY_REMOTE_VARIABLE2": "${localEnv:SOME_LOCAL_VAR}"
-	}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
