@@ -42,6 +42,3 @@ RUN rm -rf /tmp/library-scripts
 
 ENV DEBIAN_FRONTEND=dialog
 
-
-#Run Container as nonroot
-#USER nonroot
